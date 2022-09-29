@@ -2,7 +2,7 @@ html {
     font-size: 62.5%;
 }
 body {
-    background-color: #f3f5f3
+    background-color: #f8f806
 }
 h1 {
     text-align: center;
@@ -58,21 +58,21 @@ ul {
 
     top:100%;
     z-index: 1;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
     min-height: 400px;
     min-width: 300px;
 }
 .vacio {
     padding: 10px;
-    background-color: crimson;
+    background-color: rgb(146, 1, 230);
     text-align: center;
     border-radius: 10px;
     color: white;
 }
 .contenido-hero {
     margin-top: 80px;
-    color: white;
+    color: rgb(33, 18, 241);
 }
 .contenido-hero form {
     position: relative;
